@@ -4,3 +4,4 @@
 
 - pick
 - readonly
+- tuple-to-object
