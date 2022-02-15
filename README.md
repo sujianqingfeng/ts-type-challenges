@@ -5,3 +5,4 @@
 - pick
 - readonly
 - tuple-to-object
+- first
