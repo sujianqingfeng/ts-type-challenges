@@ -2,6 +2,8 @@
 
 [type-challenges](https://github.com/type-challenges/type-challenges)
 
+## Easy
+
 - pick
 - readonly
 - tuple-to-object
@@ -13,3 +15,4 @@
 - concat
 - includes
 - push
+- unshift
