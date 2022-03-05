@@ -16,3 +16,4 @@
 - includes
 - push
 - unshift
+- parameters
