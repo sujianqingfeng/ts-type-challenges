@@ -17,3 +17,7 @@
 - push
 - unshift
 - parameters
+
+## Medium
+
+- get-return-type
