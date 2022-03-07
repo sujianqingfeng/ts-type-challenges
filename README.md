@@ -21,3 +21,4 @@
 ## Medium
 
 - get-return-type
+- omit
