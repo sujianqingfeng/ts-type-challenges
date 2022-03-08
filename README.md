@@ -22,3 +22,4 @@
 
 - get-return-type
 - omit
+- readonly
