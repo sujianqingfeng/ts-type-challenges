@@ -23,3 +23,4 @@
 - get-return-type
 - omit
 - readonly
+- deep-readonly
