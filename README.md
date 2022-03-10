@@ -24,3 +24,4 @@
 - omit
 - readonly
 - deep-readonly
+- tuple-to-union
