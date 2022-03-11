@@ -25,3 +25,4 @@
 - readonly
 - deep-readonly
 - tuple-to-union
+- chainable-options
