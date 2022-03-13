@@ -27,3 +27,4 @@
 - tuple-to-union
 - chainable-options
 - last
+- pop
