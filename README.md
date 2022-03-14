@@ -28,3 +28,4 @@
 - chainable-options
 - last
 - pop
+- promise-all
