@@ -29,3 +29,4 @@
 - last
 - pop
 - promise-all
+- type-lookup
