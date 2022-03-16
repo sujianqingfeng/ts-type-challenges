@@ -30,3 +30,4 @@
 - pop
 - promise-all
 - type-lookup
+- left-trim
