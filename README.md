@@ -32,3 +32,4 @@
 - type-lookup
 - left-trim
 - trim
+- capitalize
