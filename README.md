@@ -33,3 +33,4 @@
 - left-trim
 - trim
 - capitalize
+- replace
