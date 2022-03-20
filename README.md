@@ -34,3 +34,4 @@
 - trim
 - capitalize
 - replace
+- replace-all
