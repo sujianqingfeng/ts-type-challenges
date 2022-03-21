@@ -35,3 +35,4 @@
 - capitalize
 - replace
 - replace-all
+- append-argument
