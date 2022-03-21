@@ -36,3 +36,4 @@
 - replace
 - replace-all
 - append-argument
+- permutation
