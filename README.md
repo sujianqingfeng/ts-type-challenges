@@ -37,3 +37,4 @@
 - replace-all
 - append-argument
 - permutation
+- length-of-string
