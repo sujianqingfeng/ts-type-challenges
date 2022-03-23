@@ -39,3 +39,4 @@
 - permutation
 - length-of-string
 - flatten
+- append-to-object
