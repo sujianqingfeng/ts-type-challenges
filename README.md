@@ -38,3 +38,4 @@
 - append-argument
 - permutation
 - length-of-string
+- flatten
