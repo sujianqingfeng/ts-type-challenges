@@ -40,3 +40,4 @@
 - length-of-string
 - flatten
 - append-to-object
+- absolute
