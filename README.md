@@ -42,3 +42,4 @@
 - append-to-object
 - absolute
 - string-to-union
+- merge
