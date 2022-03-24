@@ -41,3 +41,4 @@
 - flatten
 - append-to-object
 - absolute
+- string-to-union
