@@ -43,3 +43,4 @@
 - absolute
 - string-to-union
 - merge
+- camelcase
