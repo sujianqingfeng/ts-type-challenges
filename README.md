@@ -43,4 +43,5 @@
 - absolute
 - string-to-union
 - merge
-- camelcase
+- camel-case
+- kebab-case
