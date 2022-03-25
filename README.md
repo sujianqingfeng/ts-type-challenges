@@ -45,3 +45,4 @@
 - merge
 - camel-case
 - kebab-case
+- diff
