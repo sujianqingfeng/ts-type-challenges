@@ -47,3 +47,4 @@
 - kebab-case
 - diff
 - any-of
+- is-never
