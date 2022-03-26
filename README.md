@@ -46,3 +46,4 @@
 - camel-case
 - kebab-case
 - diff
+- any-of
