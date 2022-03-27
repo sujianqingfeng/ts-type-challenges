@@ -48,3 +48,4 @@
 - diff
 - any-of
 - is-never
+- is-union
