@@ -50,3 +50,4 @@
 - is-never
 - is-union
 - replace-all
+- remove-index-signature
