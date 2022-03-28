@@ -49,3 +49,4 @@
 - any-of
 - is-never
 - is-union
+- replace-all
