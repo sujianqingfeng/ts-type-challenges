@@ -51,3 +51,4 @@
 - is-union
 - replace-all
 - remove-index-signature
+- percentage-parser
