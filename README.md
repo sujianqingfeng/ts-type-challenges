@@ -52,3 +52,5 @@
 - replace-all
 - remove-index-signature
 - percentage-parser
+- drop-char
+
