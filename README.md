@@ -52,3 +52,4 @@
 - replace-all
 - remove-index-signature
 - percentage-parser
+- pick-by-type
