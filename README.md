@@ -56,3 +56,4 @@
 - minus-one
 - pick-by-type
 - starts-with
+- starts-end
