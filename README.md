@@ -58,3 +58,4 @@
 - starts-with
 - starts-end
 - partial-by-keys
+- required-ky-keys
