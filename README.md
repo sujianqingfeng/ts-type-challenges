@@ -57,3 +57,4 @@
 - pick-by-type
 - starts-with
 - starts-end
+- partial-by-keys
