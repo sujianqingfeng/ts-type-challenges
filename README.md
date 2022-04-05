@@ -61,3 +61,4 @@
 - required-by-keys
 - mutable
 - omit-by-type
+- object-entries
