@@ -59,3 +59,4 @@
 - starts-end
 - partial-by-keys
 - required-by-keys
+- mutable
