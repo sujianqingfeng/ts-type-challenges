@@ -60,3 +60,4 @@
 - partial-by-keys
 - required-by-keys
 - mutable
+- omit-by-type
