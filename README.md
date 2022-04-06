@@ -63,3 +63,4 @@
 - omit-by-type
 - object-entries
 - shift
+- tuple-to-nested-object
