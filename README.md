@@ -62,3 +62,4 @@
 - mutable
 - omit-by-type
 - object-entries
+- shift
