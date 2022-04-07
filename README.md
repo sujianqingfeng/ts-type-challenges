@@ -64,3 +64,4 @@
 - object-entries
 - shift
 - tuple-to-nested-object
+- reverse
