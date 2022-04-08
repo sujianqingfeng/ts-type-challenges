@@ -65,3 +65,4 @@
 - shift
 - tuple-to-nested-object
 - reverse
+- flip-argument
