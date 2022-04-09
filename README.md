@@ -66,3 +66,4 @@
 - tuple-to-nested-object
 - reverse
 - flip-argument
+- flatten-depth
