@@ -67,3 +67,4 @@
 - reverse
 - flip-argument
 - flatten-depth
+- bem-style-string
