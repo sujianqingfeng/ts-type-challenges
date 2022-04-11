@@ -68,3 +68,4 @@
 - flip-argument
 - flatten-depth
 - bem-style-string
+- inorder-traversal
