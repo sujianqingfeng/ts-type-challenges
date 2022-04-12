@@ -69,3 +69,4 @@
 - flatten-depth
 - bem-style-string
 - inorder-traversal
+- flip
