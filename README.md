@@ -71,3 +71,4 @@
 - inorder-traversal
 - flip
 - fibonacci-sequence
+- all-combinations
