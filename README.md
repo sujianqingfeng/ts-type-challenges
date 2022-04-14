@@ -72,3 +72,4 @@
 - flip
 - fibonacci-sequence
 - all-combinations
+- greater-than
