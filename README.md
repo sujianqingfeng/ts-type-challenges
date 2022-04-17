@@ -73,3 +73,4 @@
 - fibonacci-sequence
 - all-combinations
 - greater-than
+- zip
