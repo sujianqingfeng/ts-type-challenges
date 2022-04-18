@@ -74,3 +74,4 @@
 - all-combinations
 - greater-than
 - zip
+- is-tuple
