@@ -75,3 +75,4 @@
 - greater-than
 - zip
 - is-tuple
+- chunk
