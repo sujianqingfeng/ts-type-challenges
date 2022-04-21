@@ -76,3 +76,4 @@
 - zip
 - is-tuple
 - chunk
+- fill
