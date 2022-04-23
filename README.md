@@ -77,3 +77,4 @@
 - is-tuple
 - chunk
 - fill
+- trim-right
